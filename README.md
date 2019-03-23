@@ -6,5 +6,5 @@ This repository contains more specific and concrete example codes for various di
 ### Multi-Node & Multi-GPU DP (/multinode-DP)
 - example code for multi-node multi-gpu DP with spwan : multinodeDP.py
 
-### Multi-Node & Multi-GPU DP (/multinode-DP)
+### Multi-Node & Multi-GPU MP (/multinode-MP)
 - example code for multi-node multi-gpu MP with spwan : multinodeMP.py
